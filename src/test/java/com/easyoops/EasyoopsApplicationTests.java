@@ -11,5 +11,8 @@ class EasyoopsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void contextLoads2() {
+	}
 
 }
