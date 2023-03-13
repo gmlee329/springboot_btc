@@ -12,5 +12,7 @@ create table eo.sample (
                            crt_dt datetime not null comment 'create date',
                            upd_id varchar(10) not null comment 'update ID',
                            upd_dt datetime not null comment 'update date'
+
+
 ) comment 'sample';
 create index eo_sample_x01 on eo.sample (sample_tit);
