@@ -10,6 +10,8 @@ class EasyoopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		String s = "";
 	}
 
 }
