@@ -12,4 +12,3 @@ class EasyoopsApplicationTests {
 	void contextLoads() {
 	}
 
-}
